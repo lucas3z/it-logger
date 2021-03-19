@@ -2,19 +2,40 @@
 
 > React app to track IT department tasks and issues. Uses JSON-SERVER as a mock backend
 
-## Usage
+### Layout
+<div>
+  <img src="" alt="Logs Page" width=400px>
+  <img src="" alt="Add Log Page" width=400px>
+</div>
 
-### `npm install`
+### Technologies
+- [ReactJS](https://reactjs.org)
+- [JSON Placeholder](https://jsonplaceholder.typicode.com/)
+- [Redux](https://redux.js.org/)
+- [Materialize CSS](https://materializecss.com/)
 
-### `npm run dev`
+### Features
+- Add new log or technician
+- Edit/remove a log
+- List all technicians
+- Search for specific log
 
-Runs the app with the backend JSON-Server<br>
-Open [http://localhost:3000](http://localhost:3000)
-Server [http://localhost:5000](http://localhost:5000)
+### How to run
+```
+# Clone repository
+git clone https://github.com/lucas3z/it-logger.git
+
+# Change directory
+cd it-logger
+
+# Install dependencies
+yarn install
+
+# Runs the app with the backend JSON-Server
+yarn dev
+
+```
+
+Open [http://localhost:3000](http://localhost:3000)<br />
+Server [http://localhost:5000](http://localhost:5000)<br />
 db.json contains data
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.
-
-Note: Project from [Brad Traversy's Course](https://www.udemy.com/course/modern-react-front-to-back/)
