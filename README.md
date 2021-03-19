@@ -4,8 +4,8 @@
 
 ### Layout
 <div>
-  <img src="" alt="Logs Page" width=400px>
-  <img src="" alt="Add Log Page" width=400px>
+  <img src="https://github.com/lucas3z/it-logger/blob/master/layout/logs-page.png?raw=true" alt="Logs Page" width=400px>
+  <img src="https://github.com/lucas3z/it-logger/blob/master/layout/add-log.png?raw=true" alt="Add Log Page" width=400px>
 </div>
 
 ### Technologies
